@@ -1,0 +1,8 @@
+{
+  "name": "SojaCoin",
+  "symbol": "SOJA",
+  "address": "0xc7B2523EB1b67eC4322a887f53570cdcC12E327b",
+  "chainId": 8453,
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/Cobalka/base-org-token-list/main/tokens/SojaCoin/logo.png"
+}
